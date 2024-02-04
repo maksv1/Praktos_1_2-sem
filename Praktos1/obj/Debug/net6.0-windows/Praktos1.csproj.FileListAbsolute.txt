@@ -1,0 +1,42 @@
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\bin\Debug\net6.0-windows\Praktos1.exe
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\bin\Debug\net6.0-windows\Praktos1.deps.json
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\bin\Debug\net6.0-windows\Praktos1.runtimeconfig.json
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\bin\Debug\net6.0-windows\Praktos1.dll
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\bin\Debug\net6.0-windows\Praktos1.pdb
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1_MarkupCompile.cache
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1_MarkupCompile.lref
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1.g.resources
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1.AssemblyInfoInputs.cache
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1.AssemblyInfo.cs
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1.sourcelink.json
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1.dll
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\refint\Praktos1.dll
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1.pdb
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\Praktos1.genruntimeconfig.cache
+C:\Users\Maks\Source\Repos\Prakticheskaya_1\Praktos1\obj\Debug\net6.0-windows\ref\Praktos1.dll
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\bin\Debug\net6.0-windows\Praktos1.exe
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\bin\Debug\net6.0-windows\Praktos1.deps.json
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\bin\Debug\net6.0-windows\Praktos1.runtimeconfig.json
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\bin\Debug\net6.0-windows\Praktos1.dll
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\bin\Debug\net6.0-windows\Praktos1.pdb
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1_MarkupCompile.cache
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1_MarkupCompile.lref
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1.g.resources
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1.AssemblyInfoInputs.cache
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1.AssemblyInfo.cs
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1.sourcelink.json
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1.dll
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\refint\Praktos1.dll
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1.pdb
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\Praktos1.genruntimeconfig.cache
+C:\Users\Maks\source\repos\(2 sem) C#\Praktos1\Praktos1\obj\Debug\net6.0-windows\ref\Praktos1.dll
